@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Big Data, Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 felipedick/felipedick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
