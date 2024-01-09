@@ -1,8 +1,6 @@
 - Hi, I’m @felipedick
 - 👀 I’m interested in Data Science, Big Data, Machine Learning
 - 🌱 I’m currently learning Machine Learning
-
-- 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
