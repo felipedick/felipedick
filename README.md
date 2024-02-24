@@ -2,7 +2,7 @@
 - Hi, I’m @felipedick
 - 💻 I currently work in Planning and Production Planning and
 - 💻 I have experience in Finance, Commercial Finance and Supply Chain 
-- 👀 I’m interested in Data Science, Big Data, Machine Learning
+- 👀 I’m interested in Data Science, Big Data, Machine Learning, AI
 - 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: He/Him
 
