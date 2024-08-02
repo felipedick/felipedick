@@ -3,7 +3,7 @@
 - 💻 I am a data science and data analyst
 - 💻 I have experience in business within Finance, Commercial Finance, Compliance and Supply Chain 
 - 👀 I’m interested in Data Science, Big Data, Python, Machine Learning and AI
-- 🌱 I’m currently learning Machine Learning at Alura and Stack Academy
+- 🌱 I’m currently learning Machine Learning and ML OPs at Alura and Stack Academy
 - 😄 Pronouns: He/Him
 <br><br>
 
