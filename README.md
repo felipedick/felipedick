@@ -1,6 +1,7 @@
 **Summary**
 - Hi, I’m @felipedick
 - 💻 I am a data science and data analyst
+- :man_student: I have a bachelor in Mechanical Engineering and an MBA in Business
 - 💻 I have experience in business within Finance, Commercial Finance, Compliance and Supply Chain 
 - 👀 I’m interested in Data Science, Big Data, Python, Machine Learning and AI
 - 🌱 I’m currently learning Machine Learning and ML OPs at Alura and Stack Academy
