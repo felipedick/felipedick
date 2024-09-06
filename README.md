@@ -29,6 +29,10 @@
 
 # My Projects
 
+
+[![1st place - Machine Learning Competition](https://github-readme-stats.vercel.app/api/pin/?username=felipedick&repo=1st-place-Machine-Learning-Competition
+Private&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+
 [![ML OPS Test](https://github-readme-stats.vercel.app/api/pin/?username=felipedick&repo=Alura-ML-OPS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 
