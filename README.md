@@ -31,6 +31,9 @@
 
 
 [![1st place - Machine Learning Competition](https://github-readme-stats.vercel.app/api/pin/?username=felipedick&repo=1st-place-ML-Competition&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/felipedick/1st-place-ML-Competition.git)
+
+[![Productivity Metrics_Analysis](https://github-readme-stats.vercel.app/api/pin/?username=felipedick&repo=ProductivityMetrics_Analysis&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/felipedick/ProductivityMetrics_Analysis.git)
+
 [![ML OPS Test](https://github-readme-stats.vercel.app/api/pin/?username=felipedick&repo=Alura-ML-OPS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/felipedick/Alura-ML-OPS.git)
 
 
